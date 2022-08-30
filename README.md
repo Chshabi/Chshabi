@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shoaib Ashraf
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning javaScript & java
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java and XML
 - 📫 How to reach me ... chshabi535@gmail.com
 
 <!---
